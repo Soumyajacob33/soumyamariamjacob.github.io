@@ -1,6 +1,6 @@
 # Soumya Mariam Jacob
 # Embedded Automotive Designer
-#### Technical Skills: Embedded c,Vlsi,Soc,  MATLAB, Automotive, RTOS, SDLC,IOT,FPGA
+#### Technical Skills: Embedded c,Vlsi,Soc,  MATLAB, SDLC,IOT,FPGA,Autosar,Embedded Software Engineer, Automotive Systems, Functional Safety, RTOS, Microcontroller, CAN bus, C/C++,verilog
 
 ## Education
 - Masters in engineering | MIT Chennai India - VLSI And Embedded system's
